@@ -22,6 +22,7 @@ Extensions Installed
 - Auto Rename Tag
 - CSS Peek
 - Indent-rainbow
+- Bracket Pair Colorizer 2
 - Laravel Artisan
 - Laravel Blade Snippets
 - Laravel Spacer
